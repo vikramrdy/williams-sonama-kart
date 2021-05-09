@@ -21,6 +21,7 @@ const useStyles = makeStyles(() => ({
   gridListTile: {
     border: "1px solid lightGray",
     borderRadius: 7,
+    cursor: "pointer"
   },
   noData: {
     textAlign: "center",
